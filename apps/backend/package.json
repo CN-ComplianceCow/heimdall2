@@ -28,7 +28,7 @@
     "test:ci": "vitest run"
   },
   "dependencies": {
-    "@casl/ability": "^6.0.0",
+    "@casl/ability": "^7.1.1",
     "@govtechsg/passport-openidconnect": "^1.0.3",
     "@heimdall/common": "^2.12.6",
     "@heimdall/password-complexity": "^2.12.6",
