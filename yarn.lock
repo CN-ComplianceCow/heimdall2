@@ -4898,9 +4898,9 @@
     "@types/node" "*"
 
 "@types/node@*", "@types/node@^10.1.0", "@types/node@^22.10.7", "@types/node@^25.0.0":
-  version "22.19.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.19.13.tgz#c03cab3d1f0e5542fa358ecfff08f9b34834884e"
-  integrity sha512-akNQMv0wW5uyRpD2v2IEyRSZiR+BeGuoB6L310EgGObO44HSMNT8z1xzio28V8qOrgYaopIDNA18YgdXd+qTiw==
+  version "22.20.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.20.5.tgz#afa7bde6da81b8b83ea4e2f020487e9b148c11fd"
+  integrity sha512-U2+DNr+wSjpsTS/wZGYHq7GcwfuSmKiKvoPvK22zwTlRhU91yOniN4qRR5KhIjvif7ysw/dz/hKmfDH0Ris4aA==
   dependencies:
     undici-types "~6.21.0"
 
@@ -19405,9 +19405,9 @@ vm-browserify@^1.1.2:
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
 vue-apexcharts@^1.5.1:
-  version "1.7.0"
-  resolved "https://registry.npmjs.org/vue-apexcharts/-/vue-apexcharts-1.7.0.tgz#9087840c9068e39805f369d92f0e47a913955ad6"
-  integrity sha512-QMpvBllJ1XvFsK4dwcbyxKalVpHfJnoqsNWszY55HJk/Sn7WP1f5YUv4JIzugqu4GTQB6gLcCVwwPDQFtwr0oQ==
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/vue-apexcharts/-/vue-apexcharts-1.7.2.tgz#8aff4f9032d821d79122988b2a84003ebc260668"
+  integrity sha512-EG+qU74ZAN4/WSBCvDpJPsK7ebm78+V9B7VyXB99DXNRDuF6P1xpil3Nkpp+ixci2nTgf+Q0R12E3RHQMCbogw==
 
 vue-class-component@^7.0.2:
   version "7.2.6"
