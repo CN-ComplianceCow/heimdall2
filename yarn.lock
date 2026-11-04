@@ -2658,10 +2658,10 @@
     jsonc-parser "3.3.1"
     pluralize "8.0.0"
 
-"@nestjs/sequelize@^11.0.0":
-  version "11.0.1"
-  resolved "https://registry.npmjs.org/@nestjs/sequelize/-/sequelize-11.0.1.tgz#894086326973a4fe2330f83f1f432bd8a9a2ce68"
-  integrity sha512-Zh1D2jRm736JeY9W+UyXGqHc7hfisl9232DY0//cbEGudom7s4LlJyWx+YP3n2GBS7z/G91+UFKPDq3UxttVpQ==
+"@nestjs/sequelize@^12.0.0":
+  version "12.0.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/sequelize/-/sequelize-12.0.0.tgz#571819b5a493c337cfe2c2630a4e864ce0832ab9"
+  integrity sha512-YLxJooMWNihBVNZTKFKnPQvNxPsCWZNxSjzT+FvQ8cKbWJeF5Vx6GxYaPN1i3Vo0m1S7AQfB83z44kCmT+A+5A==
 
 "@nestjs/serve-static@^5.0.3":
   version "5.0.4"
@@ -4898,9 +4898,9 @@
     "@types/node" "*"
 
 "@types/node@*", "@types/node@^10.1.0", "@types/node@^22.10.7", "@types/node@^25.0.0":
-  version "22.19.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.19.13.tgz#c03cab3d1f0e5542fa358ecfff08f9b34834884e"
-  integrity sha512-akNQMv0wW5uyRpD2v2IEyRSZiR+BeGuoB6L310EgGObO44HSMNT8z1xzio28V8qOrgYaopIDNA18YgdXd+qTiw==
+  version "22.20.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.20.5.tgz#afa7bde6da81b8b83ea4e2f020487e9b148c11fd"
+  integrity sha512-U2+DNr+wSjpsTS/wZGYHq7GcwfuSmKiKvoPvK22zwTlRhU91yOniN4qRR5KhIjvif7ysw/dz/hKmfDH0Ris4aA==
   dependencies:
     undici-types "~6.21.0"
 
