@@ -70,7 +70,7 @@
   },
   "devDependencies": {
     "@types/lodash": "^4.14.161",
-    "@types/node": "^25.0.0",
+    "@types/node": "^26.6.6",
     "quicktype": "^15.0.260",
     "tsx": "^4.7.1",
     "typedoc": "^0.28.12",

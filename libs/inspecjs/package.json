@@ -25,7 +25,7 @@
     "validate-types": "git diff --exit-code HEAD -- schemas/ src/generated_parsers/"
   },
   "devDependencies": {
-    "@types/node": "^25.0.0",
+    "@types/node": "^26.6.6",
     "quicktype": "^15.0.260",
     "typedoc": "^0.28.12",
     "vitest": "^4.0.18"
