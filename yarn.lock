@@ -2550,9 +2550,9 @@
   integrity sha512-7r3FiJYW2qTWnl+Li8GV5MzJqPiJp27hvY98kH5V/ZMzGuIOkcJqOfIpusoIQrskLDfYk5kFT8AjpeW713qcIg==
 
 "@mitre/jsonix@^3.0.7":
-  version "3.0.10"
-  resolved "https://registry.npmjs.org/@mitre/jsonix/-/jsonix-3.0.10.tgz#c8ee8533488f26f8b3a9486afd585c096c5f32e4"
-  integrity sha512-4Pzp2i07ZVeZ1IoJkQMXjfuJIRygtxEHdxt1KFxq4Tmquolhi0Uav0cM+RtzSteysDuREdT/4GB/C/eBJKcQHQ==
+  version "3.0.11"
+  resolved "https://registry.yarnpkg.com/@mitre/jsonix/-/jsonix-3.0.11.tgz#2a478a8fdb3ba81ac385e75f910b99d3ec1da791"
+  integrity sha512-lEQcBbiQW+VkXLlWhQJf6HjNhI3p2beUmoYJLQkgqWShVpxhB0Xv0pjOVTX5zL7RfeYp5o/iV5A3rXPzFts6eQ==
   dependencies:
     "@xmldom/xmldom" "^0.9.7"
     amdefine "^1.0.1"
@@ -4898,9 +4898,9 @@
     "@types/node" "*"
 
 "@types/node@*", "@types/node@^10.1.0", "@types/node@^22.10.7", "@types/node@^25.0.0":
-  version "22.19.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.19.13.tgz#c03cab3d1f0e5542fa358ecfff08f9b34834884e"
-  integrity sha512-akNQMv0wW5uyRpD2v2IEyRSZiR+BeGuoB6L310EgGObO44HSMNT8z1xzio28V8qOrgYaopIDNA18YgdXd+qTiw==
+  version "22.20.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.20.5.tgz#afa7bde6da81b8b83ea4e2f020487e9b148c11fd"
+  integrity sha512-U2+DNr+wSjpsTS/wZGYHq7GcwfuSmKiKvoPvK22zwTlRhU91yOniN4qRR5KhIjvif7ysw/dz/hKmfDH0Ris4aA==
   dependencies:
     undici-types "~6.21.0"
 
