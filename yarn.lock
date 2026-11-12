@@ -4898,9 +4898,9 @@
     "@types/node" "*"
 
 "@types/node@*", "@types/node@^10.1.0", "@types/node@^22.10.7", "@types/node@^25.0.0":
-  version "22.19.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.19.13.tgz#c03cab3d1f0e5542fa358ecfff08f9b34834884e"
-  integrity sha512-akNQMv0wW5uyRpD2v2IEyRSZiR+BeGuoB6L310EgGObO44HSMNT8z1xzio28V8qOrgYaopIDNA18YgdXd+qTiw==
+  version "22.20.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.20.5.tgz#afa7bde6da81b8b83ea4e2f020487e9b148c11fd"
+  integrity sha512-U2+DNr+wSjpsTS/wZGYHq7GcwfuSmKiKvoPvK22zwTlRhU91yOniN4qRR5KhIjvif7ysw/dz/hKmfDH0Ris4aA==
   dependencies:
     undici-types "~6.21.0"
 
@@ -5904,11 +5904,6 @@
     js-yaml "^3.10.0"
     tslib "^2.4.0"
 
-"@yr/monotone-cubic-spline@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/@yr/monotone-cubic-spline/-/monotone-cubic-spline-1.0.3.tgz#7272d89f8e4f6fb7a1600c28c378cc18d3b577b9"
-  integrity sha512-FQXkOta0XBSUPHndIKON2Y9JeQz5ZeMqLYZVVK93FliNBFm7LNMIZmY6FrMEB9XPcDbE2bekMbZD6kzDkxwYjA==
-
 "@zkochan/js-yaml@0.0.7":
   version "0.0.7"
   resolved "https://registry.npmjs.org/@zkochan/js-yaml/-/js-yaml-0.0.7.tgz#4b0cb785220d7c28ce0ec4d0804deb5d821eae89"
@@ -6174,12 +6169,17 @@ anymatch@~3.1.2:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
-apexcharts@^5.3.5:
-  version "5.10.1"
-  resolved "https://registry.yarnpkg.com/apexcharts/-/apexcharts-5.10.1.tgz#e4f89e6d866689cf213ed9a783304fba2a50acbf"
-  integrity sha512-BpKKRopNm5cziXmA1igmCKiJ02I2g/I4vBtjhB6/50FrrY2IH5csvCzzqiIuFCB+P+2p0MgLAGOJPKOUvXO63w==
+apex-commons@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/apex-commons/-/apex-commons-0.10.0.tgz#b3f1018167f76a38d4d537f77abb8e166dfe57c7"
+  integrity sha512-mBXqK6wykMnWV4TzT9636k4aaeEvE8PmBIfa2bHx91eQoit8RjJrOlBpGxNGz1Bmt6gq2U3CoqPAUZftBbYdLQ==
+
+apexcharts@^8.8.1:
+  version "8.8.1"
+  resolved "https://registry.yarnpkg.com/apexcharts/-/apexcharts-8.8.1.tgz#b156211abe1a44056d5179a17fd38c8cf9d69e61"
+  integrity sha512-Aeha39Wdrg4pTdJTpM+QsQemLoCRpwC5tEgwHYzbvtRxo4E9EmQ6zdTZbhcYia24HyPhqx3IATd1evgS0lRtzw==
   dependencies:
-    "@yr/monotone-cubic-spline" "^1.0.3"
+    apex-commons "^0.10.0"
 
 apollo-datasource@^3.3.2:
   version "3.3.2"
